@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "jsonresume-theme-papirus@0.0.5",
+      "/home/cpenar/work/cpenar.github.io"
+    ]
+  ],
+  "_from": "jsonresume-theme-papirus@0.0.5",
+  "_id": "jsonresume-theme-papirus@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-1Z1jKQSW82RhA8goCHLZrWxnC4D9wj7rqp5rfseRfLrDR/7BjqdCeZDD8aETOGcXpoCg15SefTSIIU0bWFyaFQ==",
+  "_location": "/jsonresume-theme-papirus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "jsonresume-theme-papirus@0.0.5",
+    "name": "jsonresume-theme-papirus",
+    "escapedName": "jsonresume-theme-papirus",
+    "rawSpec": "0.0.5",
+    "saveSpec": null,
+    "fetchSpec": "0.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jsonresume-theme-papirus/-/jsonresume-theme-papirus-0.0.5.tgz",
+  "_spec": "0.0.5",
+  "_where": "/home/cpenar/work/cpenar.github.io",
+  "author": {
+    "name": "Konstantinos Alexiou"
+  },
+  "bugs": {
+    "url": "https://github.com/konalexiou/jsonresume-theme-papirus/issues"
+  },
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4",
+    "html-pdf": "^2.2.0",
+    "moment": "^2.19.1",
+    "pluralize": "^7.0.0"
+  },
+  "description": "Papirus theme for JSON Resume",
+  "homepage": "https://github.com/konalexiou/jsonresume-theme-papirus#readme",
+  "keywords": [
+    "jsonresume",
+    "jsonresume-theme",
+    "jsonresume-theme-papirus",
+    "papirus",
+    "konalexiou"
+  ],
+  "license": "MIT",
+  "name": "jsonresume-theme-papirus",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konalexiou/jsonresume-theme-papirus.git"
+  },
+  "version": "0.0.5"
+}
