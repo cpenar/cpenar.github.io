@@ -680,7 +680,7 @@ https://cpenar.github.io</li>
                     </section>
                     <section class="section-education">
                         	<h2 class="title">
-						    <span class="">Education</span>
+						    <span class="">Formation</span>
 						</h2>
 
                         <div class="item">
@@ -785,7 +785,7 @@ https://cpenar.github.io</li>
                     </section>
                     <section class="section-skills">
                         	<h2 class="title">
-						    <span class="">Skills</span>
+						    <span class="">Compétences</span>
 						</h2>
 
                         <div class="item">
@@ -840,7 +840,7 @@ https://cpenar.github.io</li>
                     </section>
                     <section class="section-summary">
                         	<h2 class="title">
-							    <span class="">Summary</span>
+							    <span class=""></span>
 							</h2>
 Après plus de 10 ans d&#x27;expérience dans l&#x27;exploitation et l&#x27;administration
                         systèmes, j&#x27;ai effectué une formation de Developpeur Fullstack à l&#x27;Institut
@@ -851,53 +851,6 @@ Après plus de 10 ans d&#x27;expérience dans l&#x27;exploitation et l&#x27;admi
 						    <span class="">Experience</span>
 						</h2>
 
-                        <div class="item">
-                            <div class="position">Développeur</div>
-                            <div class="company">	<span class="name">
-									Erudo
-								</span>
-	<span class="date">
-									|
-									<span class="startDate">
-										Dec 2018
-									</span>
-	<span class="endDate">
-										- Present
-									</span>
-</span>
-                            </div>
-                            <div class="summary">
-                                <p>Développement d&#x27;applications Spring/Angular</p>
-                            </div>
-                            <ul class="highlights">
-                                <li>Spring</li>
-                                <li>Angular</li>
-                                <li>JHipster</li>
-                                <li>Jenkins</li>
-                            </ul>
-                        </div>
-                        <div class="item">
-                            <div class="position">Stage</div>
-                            <div class="company">	<span class="name">
-									Laboratoire IETR de l&#x27;Université Rennes 1
-								</span>
-	<span class="date">
-									|
-									<span class="startDate">
-										Apr 2017
-									</span>
-	<span class="endDate">
-										- Nov 2017
-									</span>
-	<span class="diffDate">
-										(7 months)
-									</span>
-</span>
-                            </div>
-                            <div class="summary">
-                                <p>Développement d&#x27;une application GTK</p>
-                            </div>
-                        </div>
                         <div class="item">
                             <div class="position">Administrateur systèmes pour le Ministère de l&#x27;écologie</div>
                             <div
@@ -926,6 +879,9 @@ Après plus de 10 ans d&#x27;expérience dans l&#x27;exploitation et l&#x27;admi
                             <li>Administration des systèmes Debian</li>
                             <li>Mise en place d&#x27;un reséau d&#x27;administration IPMI / DRAC</li>
                         </ul>
+                        <div class="environnement">
+                            <p>Environnement : Debian, Vmware, git/Puppet, Nagios/Centreon, IPMI/DRAC</p>
+                        </div>
                 </div>
                 <div class="item">
                     <div class="position">Administrateur systèmes pour la Mairie de Paris</div>
@@ -953,6 +909,9 @@ Après plus de 10 ans d&#x27;expérience dans l&#x27;exploitation et l&#x27;admi
                         <li>Analyse des besoins et étude des stratégies de sauvegarde</li>
                         <li>Mise en place de l&#x27;architecture</li>
                     </ul>
+                    <div class="environnement">
+                        <p>Environnement : TINA, Hyperstream, RedHat, Windows, Vmware</p>
+                    </div>
                 </div>
                 <div class="item">
                     <div class="position">Analyste d’exploitation pour la Mairie de Paris</div>
@@ -981,6 +940,9 @@ Après plus de 10 ans d&#x27;expérience dans l&#x27;exploitation et l&#x27;admi
                         <li>Exploitation quotidienne</li>
                         <li>Maintien en condition opérationnelle</li>
                     </ul>
+                    <div class="environnement">
+                        <p>Environnement : Nagios/Centreon, Sysload, RedHat, Windows, AIX</p>
+                    </div>
                 </div>
                 <div class="item">
                     <div class="position">Coordinateur de projets</div>
@@ -1009,6 +971,9 @@ Après plus de 10 ans d&#x27;expérience dans l&#x27;exploitation et l&#x27;admi
                         <li>Formation des nouveaux pilotes</li>
                         <li>Rédaction, correction et validation de documents à destination du pilotage</li>
                     </ul>
+                    <div class="environnement">
+                        <p>Environnement : Linux, Windows, Microsoft MOM, Tivoli TWS, NetBackup</p>
+                    </div>
                 </div>
                 <div class="item">
                     <div class="position">Technicien d&#x27;exploitation</div>
@@ -1034,11 +999,14 @@ Après plus de 10 ans d&#x27;expérience dans l&#x27;exploitation et l&#x27;admi
                     <ul class="highlights">
                         <li>Maintien en condition opérationnelle</li>
                     </ul>
+                    <div class="environnement">
+                        <p>Environnement : Unix, HP-UX, Tivoli TSM, Autosys</p>
+                    </div>
                 </div>
                 </section>
                 <section class="section-languages">
                     	<h2 class="title">
-						    <span class="">Languages</span>
+						    <span class="">Langues</span>
 						</h2>
 
                     <ul>
@@ -1060,7 +1028,7 @@ Après plus de 10 ans d&#x27;expérience dans l&#x27;exploitation et l&#x27;admi
                 </section>
                 <section class="section-interests">
                     	<h2 class="title">
-						    <span class="">Interests</span>
+						    <span class="">Centres d&#x27;intérêt</span>
 						</h2>
 
                     <ul>

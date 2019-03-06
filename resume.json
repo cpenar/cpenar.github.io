@@ -71,6 +71,28 @@
   ],
   "work": [
     {
+      "company": "Erudo",
+      "position": "Développeur",
+      "website": "",
+      "startDate": "2018-12",
+      "endDate": "",
+        "summary": "Développement d'applications Spring/Angular",
+        "highlights": [
+            "Spring",
+            "Angular",
+            "JHipster",
+            "Jenkins"
+        ]
+    },
+    {
+      "company": "Laboratoire IETR de l'Université Rennes 1",
+      "position": "Stage",
+      "website": "",
+      "startDate": "2017-04",
+      "endDate": "2017-11",
+      "summary": "Développement d'une application GTK"
+    },
+    {
       "company": "OPEN Group",
       "position": "Administrateur systèmes pour le Ministère de l'écologie",
       "website": "",

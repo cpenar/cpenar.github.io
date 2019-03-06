@@ -1,0 +1,186 @@
+basics:
+  name: 'Carlos Penaranda'
+  _picture: ""
+  email: carlos.penaranda74@gmail.com
+  phone: ""
+  website: 'https://cpenar.github.io'
+  summary: 'Après plus de 10 ans d''expérience dans l''exploitation et l''administration systèmes, j''ai effectué une formation de Developpeur Fullstack à l''Institut Polytechnique de Toulouse afin d''élargir mes compétences.'
+  _location:
+    address: ""
+    postalCode: ""
+    city: ""
+    countryCode: ""
+    region: ""
+  profiles:
+    -
+      network: github
+      username: cpenar
+      url: 'https://github.com/cpenar'
+education:
+  -
+    institution: ' INP/ENSEEIHT de Toulouse'
+    area: 'Développeur Fullstack'
+    studyType: ""
+    startDate: 2016-11
+    endDate: 2017-04
+    gpa: ""
+    courses:
+      - 'http://www.formation-fullstack.fr'
+  -
+    institution: ' Université Paris 8 Saint Denis'
+    area: 'Module de licence d''informatique'
+    studyType: ""
+    startDate: 2008-09
+    endDate: 2009-06
+    gpa: ""
+    courses:
+      - 'Programmation fonctionnelle en Lisp'
+  -
+    institution: 'CNAM de Paris'
+    area: 'Module de licence d''Informatique'
+    studyType: ""
+    startDate: 1999-09
+    endDate: 2000-06
+    gpa: ""
+    courses:
+      - 'Administration systèmes et réseaux'
+      - 'Théorie des graphes'
+  -
+    institution: 'Université Pierre et Marie Curie Paris VI'
+    area: 'DEUG Mathématiques et Informatique appliquées aux sciences, option informatique'
+    studyType: ""
+    startDate: 1994-09
+    endDate: 1998-06
+    gpa: ""
+    courses:
+      - 'Initiation aux langages objets avec Smalltalk'
+      - 'Programmation dynamique'
+work:
+  -
+    company: Erudo
+    position: Développeur
+    website: ""
+    startDate: 2018-12
+    endDate: ""
+    summary: 'Développement d''applications Spring/Angular'
+    highlights:
+      - Spring
+      - Angular
+      - JHipster
+      - Jenkins
+  -
+    company: 'Laboratoire IETR de l''Université Rennes 1'
+    position: Stage
+    website: ""
+    startDate: 2017-04
+    endDate: 2017-11
+    summary: 'Développement d''une application GTK'
+  -
+    company: 'OPEN Group'
+    position: 'Administrateur systèmes pour le Ministère de l''écologie'
+    website: ""
+    startDate: 2013-07
+    endDate: 2016-07
+    summary: 'Administration d''une plate-forme d''hébergement web'
+    highlights:
+      - 'Exploitation d''applications Tomcat'
+      - 'Automatisation des mises en supervision'
+      - 'Administration des systèmes Debian'
+      - 'Mise en place d''un reséau d''administration IPMI / DRAC'
+    environnement: 'Debian, Vmware, git/Puppet, Nagios/Centreon, IPMI/DRAC'
+  -
+    company: 'OPEN Group'
+    position: 'Administrateur systèmes pour la Mairie de Paris'
+    website: ""
+    startDate: 2012-01
+    endDate: 2013-07
+    summary: 'Conception et mise en production d''une nouvelle solution de sauvegarde (TINA)'
+    highlights:
+      - 'Analyse des besoins et étude des stratégies de sauvegarde'
+      - 'Mise en place de l''architecture'
+    environnement: 'TINA, Hyperstream, RedHat, Windows, Vmware'
+  -
+    company: 'OPEN Group'
+    position: 'Analyste d’exploitation pour la Mairie de Paris'
+    website: ""
+    startDate: 2010-06
+    endDate: 2012-12
+    summary: 'Administration de supervision et encadrement technique en infrastructure hétérogène'
+    highlights:
+      - 'Administration des plateformes de supervision Nagios et Sysload'
+      - 'Exploitation quotidienne'
+      - 'Maintien en condition opérationnelle'
+    environnement: 'Nagios/Centreon, Sysload, RedHat, Windows, AIX'
+  -
+    company: Netlevel
+    position: 'Coordinateur de projets'
+    website: ""
+    startDate: 2008-06
+    endDate: 2009-04
+    summary: ""
+    highlights:
+      - 'Médiation et accompagnement technique de projets d''installation de nouvelles supervisions et de virtualisation des postes de supervision'
+      - 'Formation des nouveaux pilotes'
+      - 'Rédaction, correction et validation de documents à destination du pilotage'
+    environnement: 'Linux, Windows, Microsoft MOM, Tivoli TWS, NetBackup'
+  -
+    company: 'GFI Informatique'
+    position: 'Technicien d''exploitation'
+    website: ""
+    startDate: 2007-12
+    endDate: 2008-06
+    summary: ""
+    highlights:
+      - 'Maintien en condition opérationnelle'
+    environnement: 'Unix, HP-UX, Tivoli TSM, Autosys'
+volunteer: []
+awards: []
+publications: []
+skills:
+  -
+    name: 'Front end'
+    level: ""
+    keywords:
+      - 'React ☆'
+      - 'Redux ☆'
+      - 'Javascript / ES 6 ☆☆'
+  -
+    name: 'Back end'
+    level: ""
+    keywords:
+      - 'Django ☆'
+      - 'Nodejs ☆'
+      - 'Python 3 ☆☆☆'
+  -
+    name: Systèmes
+    level: ""
+    keywords:
+      - 'Debian ☆☆☆☆'
+      - 'RedHat ☆☆☆'
+      - 'UNIX ☆☆'
+  -
+    name: 'Gestion de configuration'
+    level: ""
+    keywords:
+      - 'Puppet ☆☆☆'
+      - 'Ansible ☆☆'
+  -
+    name: Supervision
+    level: ""
+    keywords:
+      - 'Nagios/Centreon ☆☆☆☆'
+      - 'Sysload ☆☆☆'
+languages:
+  -
+    language: Anglais
+    fluency: 'Lu, écrit, parlé, technique'
+  -
+    language: Espagnol
+    fluency: Courant
+interests:
+  -
+    name: 'Éco construction et bioclimatisme'
+    keywords: []
+  -
+    name: 'Physique des étoiles et de la matière'
+    keywords: []
